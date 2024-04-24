@@ -15,7 +15,7 @@ Image gallery: https://imgur.com/a/wuXMWVg
 
 * Hotswap sockets for MX switches
 * Multiple layout support, including ISO, split spacebar, and 4x5 macropad for numpad. [KLE link](http://www.keyboard-layout-editor.com/#/gists/d71adbbb0de71b98bfe3e79a4a607b5c)
-* PCB mount stabalizers
+* PCB mount stabilizers
 * Under-switch LED for caps lock and num lock
 * Piezo buzzer
 * Solenoid
@@ -60,8 +60,8 @@ The following is a table of measurements of everything that's stacked on top of 
 | Mill-Max 315 sockets (1x20) | 2     |
 | Mill-Max 315 sockets (1x4)  | 1     |
 | Mill-Max round pin (¼in)    | 44    | [Link](https://www.mouser.com/ProductDetail/Mill-Max/3320-0-00-15-00-00-03-0?qs=s8Nb1z4Wn%2FQ16WBIwCPrTw%3D%3D&countryCode=US&currencyCode=USD)
-| 2u plate mount stabalizer   | 7 - 10| Count varies based on layout
-| 7u plate mount stabalizer   | 1     | For 7u spacebar
+| 2u plate mount stabilizer   | 7 - 10| Count varies based on layout
+| 7u plate mount stabilizer   | 1     | For 7u spacebar
 | Switch plate (5 piece set)  | 1     | Optional 1.5mm acrylic
 | Case foam (under PCB)       | 1     | Optional 2mm EVA
 | Plate Foam                  | 1     | Optional 3.5mm EVA foam (or 2mm + [1.5mm](https://www.aliexpress.us/item/3256804208838525.html?spm=a2g0o.order_list.order_list_main.5.21ef1802FA7EIC&gatewayAdapt=glo2usa&_randl_shipto=US))
@@ -145,7 +145,7 @@ Mount headers for on the PCB facing down (PCB position J1) and right angled head
 
 Turn on your display, and measure the physical height and width of the display area.  This will be the size of your case "window".  Use masking tape to mark the edges of the window on the top of your case and cut the hole out.
 
-I believe the best tool for this job is with a CNC router.  Since I didn't have access to one, I first used a dremel with a cutting disk to cut the hole out.  Then I smoothed the edges with file, and then with fine grit sand sand paper wrapped around a flat piece of plastic.  I found that adding a chamfered edge makes it look more "finished".
+I believe the best tool for this job is with a CNC router.  Since I didn't have access to one, I first used a dremel with a cutting disk to cut the hole out.  Then I smoothed the edges with a file, and then with fine grit sand sand paper wrapped around a flat piece of plastic.  I found that adding a chamfered edge makes it look more "finished".
 
 #### c) Mounting display
 
@@ -155,9 +155,9 @@ I found that the easiest thing to do here is to first connect the display to the
 
 ## Continue with main build
 
-### 7) Stabalizers
+### 7) Stabilizers
 
-Install your stabalizers of choice onto the PCB.  For the vertical stabs, in order to counteract the curvature of the PCB, I used adhesive stabalizer pads and cut them in half lengthwise (band-aids would work as well).  I then placed them on the inside half of where the stabs would sit.  The idea here is to angle the stabs back outwards so that they remain parallel.
+Install your stabilizers of choice onto the PCB.  For the vertical stabs, in order to counteract the curvature of the PCB, I used adhesive stabilizer pads and cut them in half lengthwise (band-aids would work as well).  I then placed them on the inside half of where the stabs would sit.  The idea here is to angle the stabs back outwards so that they remain parallel.
 
 Note that I made all the stab holes a tad larger in the vertical direction to allow for some wiggle room.
 
