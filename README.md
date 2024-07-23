@@ -68,6 +68,7 @@ The following is a table of measurements of everything that's stacked on top of 
 | 2.2" ILI9341 display        | 1     | Optional display, [link](https://a.co/d/10fYStD)
 | 8 pin headers (2.54mm pitch)| 2     | For optional display
 | 8 pin ribbon cable          | 1     | For optional display
+| USB-C panel mount           | 1     | [Link](https://a.aliexpress.com/_mLVMrx6)
 
 For the Mill-Max 315 series sockets, I found it more cost efficient to just buy a really long socket and cut the sizes I need with flush cutters.  [Here's an example of a 1x64 socket.](https://www.mouser.com/ProductDetail/Mill-Max/315-93-164-41-003000?qs=WZRMhwwaLl%252BIMh92Iwf2Uw%3D%3D&countryCode=US&).  Make sure to file down the rough edge after cutting.
 
